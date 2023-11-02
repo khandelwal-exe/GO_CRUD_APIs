@@ -1,0 +1,4 @@
+2023/10/31 17:09:03 Database Connection successfully established OfficeManagement
+2023/10/31 17:09:03 Server started on :5032
+2023/10/31 17:09:07 Request: GET /officetypes
+2023/10/31 17:09:07 Request processed in 84.8489ms
